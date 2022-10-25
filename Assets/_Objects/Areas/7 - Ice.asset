@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 7 - Ice
+  m_EditorClassIdentifier: 
+  name: Shiver High Hills
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 8554930517266320557, guid: 4e3b8ec3d0e1c7a48b2ebd60574f1dd3,
+    type: 3}
+  chaserPrefab: {fileID: 1474021398145651833, guid: 8ce1775f6c540324eb8136a5ebf2677d,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 8fa875648ee160c4893bcf49d7ea5662, type: 3}
+  loopClip: {fileID: 8300000, guid: 8c48b38da509dfd42b3818a208b82516, type: 3}
+  songTitle: Frappe Snowland - Mario Kart 64 (Bulby)
+  obstacles:
+  - {fileID: 3536745183003270293, guid: d7ffb8543ed8ec341bf560b2f155b5d8, type: 3}
+  - {fileID: 5596472570262030017, guid: 2df9212a357fa1c419bb2258a8753d7d, type: 3}
+  - {fileID: 8654042652324936148, guid: dbc99bc4450f0c94b98ec886a025b0f2, type: 3}
+  - {fileID: 7685476731863595812, guid: 42ca3c4d6fe4e514c9dc28012c57b1b3, type: 3}
+  - {fileID: 1095904044012712213, guid: d5fa2678379ac2e4589258b4d079c862, type: 3}
+  - {fileID: 6993913725380660515, guid: e572e7be0d05e6f47a77ad16b8a3ca52, type: 3}
+  - {fileID: 986315387561637932, guid: 84ea796b7ced5b24db13c47cda1750af, type: 3}
+  - {fileID: 992693808850625604, guid: eaf8e7ba1246efd4b8cdab361b1ee754, type: 3}
+  - {fileID: 5585194163877279524, guid: 0c0c144015643e143a25d75d5732e48f, type: 3}
+  - {fileID: 2051544836275522764, guid: 1d9f75ca3dfd036489ee742e53302e87, type: 3}
+  - {fileID: 4153475631393348095, guid: 034c09b26e8bca14c9b9e8195ac93ddb, type: 3}
+  - {fileID: 9018805903160966301, guid: a4dc5d515dda7c94bb7818e5207297dc, type: 3}
+  - {fileID: 8890169605556553767, guid: 5bd19a91b8a0dfe4e8f98eb7d5d8b685, type: 3}
+  - {fileID: 48989734534044501, guid: c50c7a10356ae9d49aa1ed7917c568d8, type: 3}
+  - {fileID: 4557600101412311201, guid: bf1f13f9227f88942a76f46cd12b09fa, type: 3}
+  - {fileID: 6451453591662683183, guid: f31618957d191f14ea8c231142df97c3, type: 3}
+  - {fileID: 3569813797816414833, guid: 568cc567522e7e846aaa7b6491a3558f, type: 3}
+  - {fileID: 6309309855371822158, guid: 2f32fd5bdd57fe740ad424a0a7275784, type: 3}
+  - {fileID: 897069055934736896, guid: 7e605e6f5b60df847a3170e08a5c4c6b, type: 3}
+  - {fileID: 2291599137837116479, guid: 1372703da571d754d86e7df63f1e58c1, type: 3}

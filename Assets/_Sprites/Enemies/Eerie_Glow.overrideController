@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eerie_Glow
+  m_Controller: {fileID: 9100000, guid: 2669de75f48a5284aa660bbfe6c92f78, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a5f04e0703791b24e8f72f6370cfcf61, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 798ce2605a2fe2640bf399bff49527b0, type: 2}

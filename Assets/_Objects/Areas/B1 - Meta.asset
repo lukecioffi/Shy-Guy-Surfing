@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: B1 - Meta
+  m_EditorClassIdentifier: 
+  name: Meta
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 2964003380754536333, guid: fab2b5736003aa04d98535e9673533b1,
+    type: 3}
+  chaserPrefab: {fileID: 0}
+  introClip: {fileID: 8300000, guid: fba99d80b62ec844bb96f664b529298a, type: 3}
+  loopClip: {fileID: 8300000, guid: a260a1849626cab4a85f0d1819a34847, type: 3}
+  obstacles:
+  - {fileID: 0}
+  - {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0cabc4d06d26044d8a51922fba163aa, type: 3}
+  m_Name: RainbowRoad
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -3302708532255671104, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: 1738036664668012119, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: 3809124162178777133, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: 7209418356205201927, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: 3552358239552530287, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: -9120517644719076689, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  - {fileID: 786718929464355742, guid: 61de2597eb2d0e64dbcfeb9ee9d4ee9b, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0

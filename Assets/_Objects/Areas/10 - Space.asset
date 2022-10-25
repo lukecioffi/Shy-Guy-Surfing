@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 10 - Space
+  m_EditorClassIdentifier: 
+  name: Outer Space
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 414615584340561310, guid: e1fdba6d5ad553843b1b461a4e65be11, type: 3}
+  chaserPrefab: {fileID: 0}
+  introClip: {fileID: 8300000, guid: 04f809e8efb24474896b1f11cb5246b4, type: 3}
+  loopClip: {fileID: 8300000, guid: c13616b1bde59df40a81cb020776857f, type: 3}
+  songTitle: Stage 1 - Silver Surfer (VinylCheese)
+  obstacles:
+  - {fileID: 2869525074180982891, guid: a10b65adad412f045a55ffb9e5ec3fab, type: 3}
+  - {fileID: 9153389499204299268, guid: 08fd834151c1f9e47b75e1d0d2cb1959, type: 3}
+  - {fileID: 3375487532122755040, guid: fd964c7a6c9945945a03d5dcce6d0d1b, type: 3}
+  - {fileID: 8083888275809793016, guid: 452b7b951f62a7e41bdefc9342a06e2b, type: 3}
+  - {fileID: 5681570489497327932, guid: b6b41644dfa6baa429c573a6fa6e0304, type: 3}

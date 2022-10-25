@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 3 - Cave
+  m_EditorClassIdentifier: 
+  name: Rumble Tunnel
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 392162820785459432, guid: 5346aec376b9ca040a97ea4a069a3298, type: 3}
+  chaserPrefab: {fileID: 9051808548988219573, guid: 497557958edc4c443850f7745f8f2b11,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 7bf917ebb95e90747921584f1eede1e1, type: 3}
+  loopClip: {fileID: 8300000, guid: 381a4897fa2d1894a8476f7b66dcd9aa, type: 3}
+  songTitle: Lava Reef Zone Act 1 - Sonic Mania (Bulby)
+  obstacles:
+  - {fileID: 7626567771208821476, guid: 9c49a43a74548af4ba11b5cabd851336, type: 3}
+  - {fileID: 7616818549772011682, guid: b6d5c72c3e023e34e8bf9b79c886dead, type: 3}
+  - {fileID: 273606615483741494, guid: 6c017c5342873a6408349508a9a28d2d, type: 3}
+  - {fileID: 4335367865529147924, guid: a20f9a26696c6534893fe7afef606926, type: 3}
+  - {fileID: 6258454142751836686, guid: 90c1d6d38f46ca249b71b0c56d25b986, type: 3}
+  - {fileID: 3115509697344023950, guid: ae0434cadcc0e96419352e2262dae2d8, type: 3}
+  - {fileID: 2385478217040465159, guid: e446b129d8516a44f913b0dc953bac84, type: 3}
+  - {fileID: 7604589334032611145, guid: 230d7e02d4b5c6c4aa3a5696d6273a98, type: 3}
+  - {fileID: 7133207670013370633, guid: 741c4c59d59fb1b4f98c11b259cded18, type: 3}
+  - {fileID: 7383475234080077673, guid: 3cef21cbecbc7c142827e321de2ed421, type: 3}
+  - {fileID: 4079603617784146130, guid: 2a0f28baebbb13143ac02f3bbd304979, type: 3}
+  - {fileID: 942624324437843808, guid: fd5a1582669fe7642b095ffd351465c2, type: 3}
+  - {fileID: 4014940194098518013, guid: dd13c5b4490eb984b9dc2fdb6fa50704, type: 3}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 4 - Desert
+  m_EditorClassIdentifier: 
+  name: Goombi Oasis
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 2096496520185283640, guid: f0a3d268fda540e478bf61a50b2db9fb,
+    type: 3}
+  chaserPrefab: {fileID: 3481756829393622442, guid: 70226c72e287f4c46a62d58b2b3d9258,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 09d107ac304d9294dbc9598e5cf8d609, type: 3}
+  loopClip: {fileID: 8300000, guid: 4ae14dd294c8e0b4e9920bc1d39522cd, type: 3}
+  songTitle: Spiny Desert - Mario Party 3 (Magnet Dood)
+  obstacles:
+  - {fileID: 8062100851018364462, guid: 9495863697236c94da7946289552dd97, type: 3}
+  - {fileID: 573915552865972160, guid: 90617b98bd90a3f4b8d89f527d803943, type: 3}
+  - {fileID: 183658581672983180, guid: 0fefb0e7cf5dc9b4d9b19d37655427e3, type: 3}
+  - {fileID: 7396520241291535868, guid: b2e2de98d3ba4ab46a35f7e3f61190bf, type: 3}
+  - {fileID: 8325053776560496044, guid: f9e345f468f39c541a4d65986e793b49, type: 3}
+  - {fileID: 975675804208856233, guid: 7ead6e0817399334280c5f9b2666cb35, type: 3}
+  - {fileID: 4463454560596666440, guid: 7d9c5b6c3d211a349b5051819f10b09e, type: 3}
+  - {fileID: 547750501170825208, guid: 6e4981484bcf02b4ea536c59934ba0c8, type: 3}
+  - {fileID: 267788668009978018, guid: 4b8df53c148901e4fb8c0f896be815ab, type: 3}
+  - {fileID: 7780773880690111076, guid: a95cca89f7d8cf94b958ba358cdc0095, type: 3}
+  - {fileID: 2445608939667465518, guid: 8513b30845bc1804e880d87eee6edfbf, type: 3}
+  - {fileID: 8405699490115929207, guid: 8a964da446ed6c24c829b43e4ee7d944, type: 3}
+  - {fileID: 1186462051930291510, guid: c07ff0883e35d6f4da2a9b9fdaaa0fcb, type: 3}
+  - {fileID: 4181249994820324335, guid: 36ce2a743cd27a244814df7debc5704b, type: 3}
+  - {fileID: 2198014567782943883, guid: 9fc1758c49eb6ce47a9b80dc8602e84b, type: 3}

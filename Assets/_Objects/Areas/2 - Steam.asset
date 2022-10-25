@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 2 - Steam
+  m_EditorClassIdentifier: 
+  name: Steam Gardens
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 6784629539617073524, guid: cdf874318bb8ddb44809a0255f42f596,
+    type: 3}
+  chaserPrefab: {fileID: 8233617565216763860, guid: 762db0c95648e07488b38e78b8139a68,
+    type: 3}
+  introClip: {fileID: 8300000, guid: aa65e9747a06b724983f8444f3486cec, type: 3}
+  loopClip: {fileID: 8300000, guid: 517d3c0c90227d84bb045946a255c3f9, type: 3}
+  songTitle: Steam Gardens - Super Mario Odyssey (branflakes)
+  obstacles:
+  - {fileID: 1908216028853273088, guid: 76dcb86ffa48c1e41b782e1e65118d35, type: 3}
+  - {fileID: 6510913228216074840, guid: 8bc349fe56279404fb4740f2a4da2f5b, type: 3}
+  - {fileID: 9071765039345851521, guid: 7dc2351c276a54143969083b7364b614, type: 3}
+  - {fileID: 7365142012737553072, guid: a9e2b64b3c017c744a81d6c35f09f9bc, type: 3}
+  - {fileID: 927634937496730513, guid: 6cf0f1f64d9659b43a555be23916bcfb, type: 3}
+  - {fileID: 5673856797458436457, guid: e1d867a081d20cc40ac15d8c964d7741, type: 3}
+  - {fileID: 5945109108714721571, guid: 186678eb6524db6488b398b21e37a7bd, type: 3}
+  - {fileID: 3454927276845594970, guid: 9ef58e3dbaf69d74ab94f6c241bfae80, type: 3}
+  - {fileID: 8735352193286850046, guid: 0043e73a755bc584aadba320feddc095, type: 3}
+  - {fileID: 9098663951142095113, guid: 9457db4e41327134d9adf5860342e824, type: 3}
+  - {fileID: 3302140945813386346, guid: a65bffdbed26f874494a054a7c72197d, type: 3}
+  - {fileID: 5944421279332516086, guid: 497d94d92f89ddc4296e6f4ee4f74c29, type: 3}
+  - {fileID: 2543396908435358219, guid: 1547a87230e14e8419a905df357db88b, type: 3}
+  - {fileID: 2135621169880139595, guid: c10effcb10277f046802063fedec7c0d, type: 3}
+  - {fileID: 1271873132074962471, guid: 33ac22366d3c24144baec41940706620, type: 3}
+  - {fileID: 2545060821339156430, guid: a63c7dcb5fccfb644b613e863e226a5c, type: 3}
+  - {fileID: 524965910492799045, guid: 355de866f83405b47872bfff5679314a, type: 3}
+  - {fileID: 1926182002910813482, guid: 461e2fd181aa92e4e867f4c38b0f3f66, type: 3}
+  - {fileID: 6706087528076602988, guid: cc2f21f9648d13e46bac79ea4d11d04d, type: 3}
+  - {fileID: 8924701579352985995, guid: 74568e67cf60c494da0eb307fc6fa45a, type: 3}
+  - {fileID: 2649409070616759646, guid: b1b20bfb8eef74f41b5b357449088a65, type: 3}
+  - {fileID: 2887360946878855994, guid: 5934960a393839f4b8dcbe0464e7bfc2, type: 3}

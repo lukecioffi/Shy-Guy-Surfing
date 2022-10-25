@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: f5b14053c9e249748a27792e5cb14efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2753989080041141372
+    second: ice_caps_0
+  - first:
+      213: -2329435886369390899
+    second: ice_caps_1
+  - first:
+      213: -8723309790141844449
+    second: ice_caps_2
+  - first:
+      213: 3421192987981405569
+    second: ice_caps_3
+  - first:
+      213: -1665975723341965259
+    second: ice_caps_4
+  - first:
+      213: 2418954610946981008
+    second: ice_caps_5
+  - first:
+      213: 8076999150598848936
+    second: ice_caps_6
+  - first:
+      213: 4316193790940985354
+    second: ice_caps_7
+  - first:
+      213: -8432417687659318906
+    second: ice_caps_8
+  - first:
+      213: 6729683854968029009
+    second: ice_caps_9
+  - first:
+      213: 2048657380269628391
+    second: ice_caps_10
+  - first:
+      213: -6614132648371548625
+    second: ice_caps_11
+  - first:
+      213: -1966226639591071797
+    second: ice_caps_12
+  - first:
+      213: 7568611654850656175
+    second: ice_caps_13
+  - first:
+      213: -2219062130353576586
+    second: ice_caps_14
+  - first:
+      213: -2690900931923221431
+    second: ice_caps_15
+  - first:
+      213: -1085678045142040998
+    second: ice_caps_16
+  - first:
+      213: 6696803004301024681
+    second: ice_caps_17
+  - first:
+      213: 429297908460042619
+    second: ice_caps_18
+  - first:
+      213: 8222576531764237171
+    second: ice_caps_19
+  - first:
+      213: -7893051672360324513
+    second: ice_caps_20
+  - first:
+      213: 4909424767037598292
+    second: ice_caps_21
+  - first:
+      213: -1639728681914427129
+    second: ice_caps_22
+  - first:
+      213: -7399815539537128945
+    second: ice_caps_23
+  - first:
+      213: -2341602144218843982
+    second: ice_caps_24
+  - first:
+      213: 1896655679097261436
+    second: ice_caps_25
+  - first:
+      213: -7835979112495292707
+    second: ice_caps_26
+  - first:
+      213: -2498139089973933528
+    second: ice_caps_27
+  - first:
+      213: -2717602548075714166
+    second: ice_caps_28
+  - first:
+      213: -9181707607283728731
+    second: ice_caps_29
+  - first:
+      213: 8184001692088920161
+    second: ice_caps_30
+  - first:
+      213: -538486360122788001
+    second: ice_caps_31
+  - first:
+      213: -7330884985566616943
+    second: ice_caps_32
+  - first:
+      213: 9185952579542549934
+    second: ice_caps_33
+  - first:
+      213: -6494853386277282116
+    second: ice_caps_34
+  - first:
+      213: -6731124610886700237
+    second: ice_caps_35
+  - first:
+      213: -4089100807862680994
+    second: ice_caps_36
+  - first:
+      213: 1934056685855517658
+    second: ice_caps_37
+  - first:
+      213: -5694014829105958333
+    second: ice_caps_38
+  - first:
+      213: -2654892508795230323
+    second: ice_caps_39
+  - first:
+      213: -9020560161139257777
+    second: ice_caps_40
+  - first:
+      213: -7745261494275133068
+    second: ice_caps_41
+  - first:
+      213: 9582296759287321
+    second: ice_caps_42
+  - first:
+      213: -7039492614606366477
+    second: ice_caps_43
+  - first:
+      213: -6010711710071262709
+    second: ice_caps_44
+  - first:
+      213: -2451887100919421916
+    second: ice_caps_45
+  - first:
+      213: 8042563698772557059
+    second: ice_caps_46
+  - first:
+      213: 3299065838678358548
+    second: ice_caps_47
+  - first:
+      213: 7748499219623544508
+    second: ice_caps_48
+  - first:
+      213: -4864852148984688905
+    second: ice_caps_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_caps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc7d0e58dd7c9d0800000000000000
+      internalID: -2753989080041141372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb7e9376e2cafd0800000000000000
+      internalID: -2329435886369390899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1478e4c6f390f680800000000000000
+      internalID: -8723309790141844449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d50b475e48a7f20800000000000000
+      internalID: 3421192987981405569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53817c508e341e8e0800000000000000
+      internalID: -1665975723341965259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb949076ad19120800000000000000
+      internalID: 2418954610946981008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a183960fe3471070800000000000000
+      internalID: 8076999150598848936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b8ca726336eb30800000000000000
+      internalID: 4316193790940985354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68178593ac80afa80800000000000000
+      internalID: -8432417687659318906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ffc0a8fc3a46d50800000000000000
+      internalID: 6729683854968029009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1479780b4e6c10800000000000000
+      internalID: 2048657380269628391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e00844661e534a0800000000000000
+      internalID: -6614132648371548625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf934fe94f86b4e0800000000000000
+      internalID: -1966226639591071797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7314a233c190960800000000000000
+      internalID: 7568611654850656175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e0c1efbe4431e0800000000000000
+      internalID: -2219062130353576586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e2f20cdff7aad0800000000000000
+      internalID: -2690900931923221431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e3ed2f195eee0f0800000000000000
+      internalID: -1085678045142040998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad912ae9d2dfec50800000000000000
+      internalID: 6696803004301024681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7934985c2c25f500800000000000000
+      internalID: 429297908460042619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37355426ac57c1270800000000000000
+      internalID: 8222576531764237171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f82bb25f367290800000000000000
+      internalID: -7893051672360324513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae7ca70d7c12440800000000000000
+      internalID: 4909424767037598292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709987293738e39e0800000000000000
+      internalID: -1639728681914427129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02597209f29e4990800000000000000
+      internalID: -7399815539537128945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_caps_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fa849145f08fd0800000000000000
+      internalID: -2341602144218843982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

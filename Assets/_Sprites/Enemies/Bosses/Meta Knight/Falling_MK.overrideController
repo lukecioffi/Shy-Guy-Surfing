@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Falling_MK
+  m_Controller: {fileID: 9100000, guid: e57b170814665ce468158a7032a0e5c0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: eb92d6affe395b14e81a32823d0fa26c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e38f37e88da70442a2b51fe138cf6d0, type: 2}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: C_Penn
+  m_Controller: {fileID: 9100000, guid: 657fbd2b7dab304449f3cafcf1d00d01, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: df463418b67679b4daf60bd6cb7c9e6c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5e8df1e661ac0e745a33f955582726ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb92d6affe395b14e81a32823d0fa26c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 910b71b9123ff5d4b95560d3d72f8249, type: 2}

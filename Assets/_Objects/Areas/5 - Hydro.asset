@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 5 - Hydro
+  m_EditorClassIdentifier: 
+  name: Hydrocity Zone
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 7877105195598935721, guid: 9dbb3bb7a7e7fcc4eb9dd6c3fe2a9e2b,
+    type: 3}
+  chaserPrefab: {fileID: 9051808548988219573, guid: 497557958edc4c443850f7745f8f2b11,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 66e54a24abc3b2245bd250322efa8002, type: 3}
+  loopClip: {fileID: 8300000, guid: 5227a74ac8d2066408e6f40b78dc53d0, type: 3}
+  songTitle: Hydrocity Zone Act 2 - Sonic Mania (Bulby)
+  obstacles:
+  - {fileID: 9178883348235635089, guid: c03bd62e673f5cf47b9cd18d9f3d1a0c, type: 3}
+  - {fileID: 6202838812508962770, guid: 86161117b9c487845b21988be8f276bb, type: 3}
+  - {fileID: 835289532342502075, guid: fea3defee630d6b418810512c0a49613, type: 3}
+  - {fileID: 3622094364241235760, guid: 2f04c6c80b3051e4ab1eb0f58e8d6793, type: 3}
+  - {fileID: 4702133595572714824, guid: 9240d78bfa696c546a10636adc93ba76, type: 3}
+  - {fileID: 4509521426660820099, guid: fb228b4893ace3446bc282d1e9387366, type: 3}
+  - {fileID: 152853417742615549, guid: 36b83b931e5776a49976db814c419690, type: 3}
+  - {fileID: 8982521580957576684, guid: 5c24ab15c37c8194d8a75426b03e94bf, type: 3}
+  - {fileID: 5752676630371167653, guid: 294e1c9a7ce23c44792be1a6e5833e64, type: 3}
+  - {fileID: 7516906181580881078, guid: 95c3f51e4f0db074fb2328be66095b46, type: 3}
+  - {fileID: 8416523317323564205, guid: b9d7a036804b4ff44af84b1b774f1a85, type: 3}
+  - {fileID: 1177816355764489408, guid: 253386d85058c7341b79b9c00c73dd15, type: 3}
+  - {fileID: 7867591945801656335, guid: 01c41c4ffd0247846aeff3334cdddc16, type: 3}
+  - {fileID: 7438155267965617354, guid: 127fe87af3e90904daa8076d9eead383, type: 3}
+  - {fileID: 6771691273544045212, guid: 2c86fa7a54db45445994644f872eeb64, type: 3}
+  - {fileID: 1373897127252382726, guid: e473f6b985849104286dc20b5242a727, type: 3}
+  - {fileID: 815541501090052795, guid: 8e2ab44eafbb1c34a9f19e28ababa43d, type: 3}

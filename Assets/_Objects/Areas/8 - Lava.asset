@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 8 - Lava
+  m_EditorClassIdentifier: 
+  name: Boiling Rapids
+  risingWater: 0
+  bgPrefab: {fileID: 730828003122060128, guid: 77f0d8b460f58754ba59f1f4400d0146, type: 3}
+  chaserPrefab: {fileID: 3065526420211231446, guid: 33d3217e942177645b43fdfddddb313e,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 77cb5439287e3514d8415f2d4b833e73, type: 3}
+  loopClip: {fileID: 8300000, guid: bb1a4b0a53502b74b9cdc2fa93c6b612, type: 3}
+  songTitle: An Underlying Problem - Shovel Knight (VinylCheese)
+  obstacles:
+  - {fileID: 5204142849120225869, guid: a939e5b8a9c69fb48b4805e5006e4c5c, type: 3}
+  - {fileID: 3396284491710972521, guid: 84d30bf2c3a1c664aa2180a9247cac4f, type: 3}
+  - {fileID: 5521777247538662392, guid: 61937f17f59bc284ea2aab013da71c89, type: 3}
+  - {fileID: 8688744487416692769, guid: 246bf382f3b4ec549bd902ef265f8bd2, type: 3}
+  - {fileID: 7572878327690374234, guid: 2975d5a7de0c4c5458626d2e7326ee50, type: 3}
+  - {fileID: 1289764251136958206, guid: 9882f10003323f543a9d0351c924a1c4, type: 3}
+  - {fileID: 3246811786787479278, guid: 5a648dbca01332647bd65528b2c0ff03, type: 3}
+  - {fileID: 7559308187840938555, guid: 78742c3518100b847a0035c33d6439c2, type: 3}
+  - {fileID: 6331148427958695792, guid: 629604c49194b05458912396c56c1de3, type: 3}
+  - {fileID: 7563073857975573009, guid: cec6c67883f4e9a4b9e4a0dbe9ba402f, type: 3}
+  - {fileID: 6434543968094963021, guid: 12dfdeb9e6193454daabf2388425f78c, type: 3}
+  - {fileID: 5230533467220828069, guid: 2ea07e4ff686054419480bf6ed0992f4, type: 3}
+  - {fileID: 5753293591137684721, guid: 24daea809da075748b1faa61e3461956, type: 3}
+  - {fileID: 2144534487071613660, guid: d39d32c19fab8ab47a4da7d8fca39a3f, type: 3}
+  - {fileID: 200677091400197554, guid: 2e4a20ca47c928745920cf636cd39521, type: 3}
+  - {fileID: 8605206094132593989, guid: e73380cac2a84df4ebc354357cd54d73, type: 3}
+  - {fileID: 6834611054106297618, guid: 61ec5162bb2958f41b005ef78dbb208f, type: 3}

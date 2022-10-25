@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Instakill
+  - Enemy
+  - Stompable
+  - Platform
+  - Bump
+  - Bomb
+  - Darkness
+  - Ring
+  - Fire
+  - Lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerBounds
+  - Player
+  - Enemy
+  - NonGround Obj
+  - Heavy Enemy
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 860050449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 368956581
+    locked: 0
+  - name: UI
+    uniqueID: 980522211
+    locked: 0
+  - name: Border
+    uniqueID: 513286857
+    locked: 0

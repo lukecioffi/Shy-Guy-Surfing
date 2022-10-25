@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 1 - Beach
+  m_EditorClassIdentifier: 
+  name: Pipe Dream Bay
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 1486986755923615164, guid: b8a85b014f1e9bc4295271cddbf923ae,
+    type: 3}
+  chaserPrefab: {fileID: 9051808548988219573, guid: 497557958edc4c443850f7745f8f2b11,
+    type: 3}
+  introClip: {fileID: 8300000, guid: 9c3d607599f5ed54c8604ccea4055235, type: 3}
+  loopClip: {fileID: 8300000, guid: 840d6f660970ab046bda3b6a65ccbcc4, type: 3}
+  songTitle: Plessie Ride! - Super Mario 3D World + Bowser's Fury (Bulby)
+  obstacles:
+  - {fileID: 5645387645715396628, guid: 1780dfec5a732ad4193602b1c997d71b, type: 3}
+  - {fileID: 9088818478752260383, guid: bd275f890c1a6664f8c64c4dd3b5b289, type: 3}
+  - {fileID: 9088818478752260383, guid: 7d338912c46fb8944ac8d589c219da15, type: 3}
+  - {fileID: 8043423321544758417, guid: e4ae2019296bf624a93089962df483ed, type: 3}
+  - {fileID: 6510514963554615289, guid: ff5a34936111a06499f1196f0ed99535, type: 3}
+  - {fileID: 36992653546875877, guid: 13e7655933c27464c982786cc898ba5d, type: 3}
+  - {fileID: 8386287221061783700, guid: ba841b2250d28c945a62d29d1492bf4f, type: 3}
+  - {fileID: 4185470509612979052, guid: aceb9ce8f5cad954482498d26adbb81f, type: 3}
+  - {fileID: 5212511480792828029, guid: e0bef3adce2fb714299e221375946662, type: 3}
+  - {fileID: 9032986883667059061, guid: ca3de1f3198f8d54ba1343124fc77b09, type: 3}
+  - {fileID: 7455908836436288385, guid: 8dfd4e7fc47c5ea41b76703cda927720, type: 3}
+  - {fileID: 4246302689972231794, guid: 46b7f16bc1876c641864d64817addb49, type: 3}
+  - {fileID: 16427926813101534, guid: 43922537eb26f684e9c7a5c07536fdee, type: 3}
+  - {fileID: 8764097071248506061, guid: 1229028a2440e1441a5b61f44abc3fb0, type: 3}
+  - {fileID: 6874400627571719675, guid: a00ca1001d4c3ea43916da866b8106c4, type: 3}
+  - {fileID: 3090569787740596258, guid: 5c14df276a80ff44885242c6251c3e15, type: 3}
+  - {fileID: 8098429635332794474, guid: 5d49438abb53e17408be240f281c5312, type: 3}
+  - {fileID: 6166858236742689929, guid: 7b23f61ea4b26cc46a22ce212d579a55, type: 3}
+  - {fileID: 5196973624683192686, guid: 8be91af0e497fbb4cb0bd3580797d366, type: 3}
+  - {fileID: 6466381833937957856, guid: 009983d458818a34c93d1a6ceba7b568, type: 3}
+  - {fileID: 5853176020543371204, guid: a9cd265f386ab3545965640f43fc1fe5, type: 3}
+  - {fileID: 874647434146016441, guid: 035d3e0a9800304418fdd63e5a552080, type: 3}

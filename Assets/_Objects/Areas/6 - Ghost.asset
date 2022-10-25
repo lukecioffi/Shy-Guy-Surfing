@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 6 - Ghost
+  m_EditorClassIdentifier: 
+  name: Sunken Lighthouse
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 378734342110809094, guid: a1755d792c3b18048b1a479bd07cd8e9, type: 3}
+  chaserPrefab: {fileID: 0}
+  introClip: {fileID: 8300000, guid: 0a632340f3c8e4e48b05e5d0f5d2711b, type: 3}
+  loopClip: {fileID: 8300000, guid: 3cb962f13a869a64a85733e8ee85272f, type: 3}
+  songTitle: Stalker - Castlevania (VinylCheese)
+  obstacles:
+  - {fileID: 5689075793703361192, guid: 62e0f3f9aff7747468ccb8201f07df4c, type: 3}
+  - {fileID: 5247815196751970190, guid: 35a89d7f0549c1446b67c01cd5fefd72, type: 3}
+  - {fileID: 93559004538634948, guid: 5394dcca3fa8b4c488a4afe34bff35ac, type: 3}
+  - {fileID: 7712850860257392159, guid: c89fc6e899f9cfc4685facc993924415, type: 3}
+  - {fileID: 7374867786054535604, guid: 2531b5d2d3e80694b8a145c018dbe9c8, type: 3}
+  - {fileID: 8147545730438428128, guid: 30c4078c8a4039f4e9ac44d99115d9a6, type: 3}
+  - {fileID: 7028247343050158026, guid: 71082790aab639a46b6538afa66173c2, type: 3}
+  - {fileID: 3664256492343846545, guid: db2f091d1864bc6408b1f3b53809ddbf, type: 3}
+  - {fileID: 5396004749067881514, guid: bc836c1cfa5d6c64c90d43c97ea4bf8f, type: 3}
+  - {fileID: 4441428073833285673, guid: 8794a6b7237ea484884c1569eada4701, type: 3}
+  - {fileID: 2928199122673016553, guid: b82262792cdbbee48afb319b3317a33d, type: 3}
+  - {fileID: 2267220241596643343, guid: f28e8fcb7c97a6e4b8be21fc52325b7f, type: 3}
+  - {fileID: 1522706616276736112, guid: 45cc47b2a4923aa4ebde2ccc56338733, type: 3}
+  - {fileID: 4146594096611214723, guid: 54ce89dd6d4ccd4498e7afd58c251057, type: 3}
+  - {fileID: 6260672755400931851, guid: b8eaba312c8ee984481b7cbd58eb641a, type: 3}
+  - {fileID: 7025637593570809748, guid: ee4d20fd9fc547246a62e276fa1da1c4, type: 3}
+  - {fileID: 6723622353915611665, guid: 1a990fbf8d1e59a458a526f3055736dd, type: 3}
+  - {fileID: 5382023643501170677, guid: 5344a08a7d1937f4a97768d8a4adf74e, type: 3}
+  - {fileID: 3927007660527896822, guid: de4b76b126f140e458c8247f13aa78fb, type: 3}
+  - {fileID: 1594889162833889420, guid: 255ebfae4afe6f442abb49f853bda888, type: 3}

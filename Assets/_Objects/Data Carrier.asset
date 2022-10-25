@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a6ab597637fd744b0f275cb459b9a2, type: 3}
+  m_Name: Data Carrier
+  m_EditorClassIdentifier: 
+  savePath: /SaveData.save
+  playerName: Admin
+  mode: 0
+  randomize_E_Mode: 0
+  highScore: 126
+  journeyScore: 7900
+  journeyHigh: 8000
+  totalDistance: 15485
+  totalRuns: 114
+  bossesDefeated: 0
+  costumeID: 0
+  costumeLocks: 00000100000001000001000000
+  totalPlayTime: 1627
+  coins: 0
+  border_id: 0
+  has_border: 1
+  resolution: {x: 960, y: 540}
+  master_volume: 1
+  music_volume: 1
+  buddy: {fileID: 0}

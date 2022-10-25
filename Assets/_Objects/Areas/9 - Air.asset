@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 893248a6ab001ec4c91402c53b22ef90, type: 3}
+  m_Name: 9 - Air
+  m_EditorClassIdentifier: 
+  name: The Climb
+  hot: 0
+  risingWater: 0
+  bgPrefab: {fileID: 6010371627225964923, guid: 7ad33acf276133343a692cdb1e830551,
+    type: 3}
+  chaserPrefab: {fileID: 9051808548988219573, guid: d8f53b969b93dab41aa63791f5a3bc65,
+    type: 3}
+  introClip: {fileID: 8300000, guid: a826f2263b4c69246b35d9adf840fbd7, type: 3}
+  loopClip: {fileID: 8300000, guid: 4559e6676dc89104b9ccd167e7601066, type: 3}
+  songTitle: Flying Battery Zone - Sonic & Knuckles (Dewey Newt)
+  obstacles:
+  - {fileID: 367734676827787381, guid: 4c178012000ca624f81acbf8f5f3c898, type: 3}
+  - {fileID: 1635541582126929913, guid: 902723b51f09f344aaf36e1d9baf1d0e, type: 3}
+  - {fileID: 7618555648477961086, guid: 7ff2f7fb64f8df44c88c08e5afab2f9b, type: 3}
+  - {fileID: 3947346133842504389, guid: 64f97c4a58c4a3f4296529d12c875333, type: 3}
+  - {fileID: 5104078415286566249, guid: 60f9d41b81fcba94fb0367fa421ac8e7, type: 3}
+  - {fileID: 2489705953717570652, guid: a820961a7c623a54598094c8b457639d, type: 3}
+  - {fileID: 2432538651517732343, guid: 839e73c1ae348f246a9dee5b7419f096, type: 3}
+  - {fileID: 4510332131316605451, guid: ad592687c72491e4d923bb3fd87b5362, type: 3}
+  - {fileID: 331106694551049354, guid: c932fa72537b3af4fbaf41cfd41e0a1d, type: 3}
+  - {fileID: 8329606314788729767, guid: e74dec8e2d619554aad384dbd2e5ef97, type: 3}
+  - {fileID: 1519700021576724957, guid: 6b4b72240e86fd742b07222aa8566b8a, type: 3}
+  - {fileID: 3188715367638020726, guid: b094fabf9c19e8c448bad7b76b1fd724, type: 3}
+  - {fileID: 8553205514065571161, guid: dc93c9678f36b134d88ad970e4d818f5, type: 3}
+  - {fileID: 2178421500832199966, guid: 359f74c2a3e826b4f868b8196353019a, type: 3}
+  - {fileID: 5677966902797909201, guid: 89bbb134be7819b4a8b6014bd3716b49, type: 3}

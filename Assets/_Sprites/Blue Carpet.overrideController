@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Blue Carpet
+  m_Controller: {fileID: 9100000, guid: a73cd58cd2492aa438de9c4f91b9d44c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 482c8c5e283f5244b9947878b5d32819, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 58bd878208245194ca35508cd1da2061, type: 2}

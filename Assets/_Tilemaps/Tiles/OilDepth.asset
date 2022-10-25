@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0cabc4d06d26044d8a51922fba163aa, type: 3}
+  m_Name: OilDepth
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -8590870181926920343, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: -765428978554614418, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: -1004362847731836845, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: 3705690523555540187, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: 5823571842508805180, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: -2856889133618552052, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: 779145487534029883, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: 4839160746537005584, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: 1672605119767210793, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  - {fileID: -1061559821262443868, guid: df1b9e92336ab9c4fa9765df0f0ed227, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
